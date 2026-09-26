@@ -1,7 +1,8 @@
 # Internship Feedback Sentiment Analysis (Task 7)
 
 This repository holds the Natural Language Processing (NLP) framework built for my internship module at Internee.pk.
-![Sentiment Analytics Output](output(4).png)
+![Sentiment Analytics Output](output%20(4).png)
+
 
 ### Project Objective:
 The core target of this project is to parse textual intern submissions and automatically classify their emotional sentiments into Positive, Neutral, or Negative indicators.
